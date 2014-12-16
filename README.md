@@ -1,3 +1,3 @@
 # Example-Start Practice Repo
 
-Magic text here.
+Magic text here. More Text.
